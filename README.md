@@ -9,6 +9,6 @@ Someone is watching your movement
 
 ## MIT License
 
-This project is free, open source. You can use it for commercial projects, open source projects, or really almost whatever you want.
+This project is free. You can use it for commercial projects, open source projects, or really almost whatever you want.
 
 Copyright (c) 2021 Melanie

@@ -1,6 +1,6 @@
 # Eye-Movement
 
-Someone is watching your movement
+In this project, someone is watching your movement when you change the mouse position
 
 ## Install
 
@@ -10,6 +10,10 @@ Someone is watching your movement
 ## Usage
 
 https://user-images.githubusercontent.com/89095047/140527216-5846e06a-27e5-4338-800e-1efc4e281303.mp4
+
+##	Roadmap
+
+v1.0: eyes follow mouse cursor
 
 ## MIT License
 

@@ -4,6 +4,13 @@ body {
   background: #14495e;
 }
 
+h1{
+  padding: 50px 50px 50px 50px;
+  font-size: 50px;
+  color: whitesmoke;
+  text-align: center;
+}
+
 .eyes {
   position: absolute;
   top: 50%;

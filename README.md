@@ -3,11 +3,15 @@
 Someone is watching your movement
 
 ## Install
+
 1. Fork and download the project
 2. Open index.html file in the browser
 
+## Usage
+
 
 ## MIT License
+
 Copyright (c) 2021 Melanie
 
 Permission is hereby granted, free of charge, to any person obtaining a copy

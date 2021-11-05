@@ -1,6 +1,6 @@
 # Eye-Movement
 
-In this project, someone is watching your movement when you change the mouse position
+In this project, someone is watching your movement when you move a mouse to another position
 
 ## Install
 

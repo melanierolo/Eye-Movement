@@ -4,8 +4,8 @@ In this project, someone is watching your movement when you change the mouse to 
 
 ## Install
 
-1. Fork and download the project
-2. Open index.html file in the browser
+1. Fork and download the project.
+2. Open index.html file in the browser.
 
 ## Usage
 

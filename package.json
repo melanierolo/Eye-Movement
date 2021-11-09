@@ -1,25 +1,19 @@
 {
-  "name": "assignments",
+  "name": "eye-movement",
   "version": "1.0.0",
-  "description": "week7 assignments unit test",
-  "main": "index.js",
+  "description": "eye-movement",
+  "main": "eyes.js",
   "scripts": {
-    "test": "jest"
+    "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "jest": {
-    "testMatch": [
-      "<rootDir>/**/**"
-    ]
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/melanierolo/Eye-Movement.git"
   },
-  "keywords": [],
-  "author": "issam",
-  "license": "ISC",
-  "devDependencies": {
-    "@babel/core": "^7.16.0",
-    "@babel/preset-env": "^7.16.0",
-    "@testing-library/jest-dom": "^5.15.0",
-    "babel-preset-env": "^1.7.0",
-    "install": "^0.13.0",
-    "npm": "^6.14.15"
-  }
+  "author": "melanie",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/melanierolo/Eye-Movement/issues"
+  },
+  "homepage": "https://github.com/melanierolo/Eye-Movement#readme"
 }
